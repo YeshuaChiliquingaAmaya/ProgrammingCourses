@@ -13,7 +13,7 @@ Este repositorio está diseñado como un espacio personal para aprender y practi
 El repositorio está organizado de la siguiente manera:
 
 - `JavaScript/` - Ejemplos y proyectos en el primer lenguaje de programación.
-- `lenguaje_2/` - Ejemplos y proyectos en el segundo lenguaje de programación.
+- `Python/` - Ejemplos y proyectos en el segundo lenguaje de programación.
 - `recursos/` - Enlaces, libros y materiales adicionales de aprendizaje.
 
 ## 🌱 Colaboración
